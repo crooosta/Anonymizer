@@ -1,0 +1,5 @@
+Project/Anonymizer/.vs
+Project/Anonymizer/.vscode
+Project/Anonymizer/Anonymizer/bin
+Project/Anonymizer/Anonymizer/obj
+*.DS_Store
